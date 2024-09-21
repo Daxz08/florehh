@@ -1347,9 +1347,4 @@ body {
 .container * {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
-}
-  
-  audio {
-  display: block; /* O inline-block, según tu diseño */
-  margin: 0 auto; /* Centra el audio horizontalmente */
 }/*# sourceMappingURL=main.css.map */
